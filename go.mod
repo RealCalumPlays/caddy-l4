@@ -1,9 +1,9 @@
-module github.com/mholt/caddy-l4
+module github.com/RealCalumPlays/caddy-l4
 
 go 1.24
 
 require (
-	github.com/caddyserver/caddy/v2 v2.10.1-0.20250720214045-8ba7eefd0767
+	github.com/caddyserver/caddy/v2 v2.10.0
 	github.com/fsnotify/fsnotify v1.9.0
 	github.com/mastercactapus/proxyprotocol v0.0.4
 	github.com/miekg/dns v1.1.63
